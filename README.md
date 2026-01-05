@@ -3,3 +3,7 @@
 
 ## Clash Verge官网导航
 - [Clash Verge使用教程](https://github.com/clashbk/clash/wiki/clash-verge)
+
+机场推荐：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】
+免费观看netflix、disney+、primevideo、hbomax，
+九折优惠码：LxwSsaay
