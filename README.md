@@ -3,7 +3,7 @@
 
 ## Clash Verge官网导航
 - [Clash Verge 1.3.8 下载](https://github.com/clashbk/Clash_Verge/releases)
-- [Clash Verge使用教程](https://github.com/clashbk/clash/wiki/clash-verge)
+- [Clash Verge 使用教程](https://github.com/clashbk/clash/wiki/clash-verge)
 
 机场推荐：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】
 免费观看netflix、disney+、primevideo、hbomax，
