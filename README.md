@@ -5,6 +5,7 @@
 - [Clash Verge 1.3.8 下载](https://github.com/clashbk/Clash_Verge/releases)
 - [Clash Verge 使用教程](https://github.com/clashbk/clash/wiki/clash-verge)
 
-机场推荐：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】
-免费观看netflix、disney+、primevideo、hbomax，
-九折优惠码：LxwSsaay
+机场推荐：
+
+- 【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】  免费观看netflix、disney+、primevideo、hbomax   九折优惠码：LxwSsaay
+- 【 [星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】  150G/9元/月  免账号观看disney+   九折优惠码：3UJuVnqS
